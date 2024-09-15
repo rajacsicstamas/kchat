@@ -1,7 +1,7 @@
 {
 	"name": "Kliensoldali Rendszerek Chat App",
 	"short_name": "Chat",
-	"start_url": ".?mode=pwa",
+	"start_url": "../?mode=pwa",
 	"display": "standalone",
 	"icons": [
 		{
